@@ -5413,9 +5413,9 @@ depd@2.0.0:
   resolved "https://registry.yarnpkg.com/depd/-/depd-2.0.0.tgz#b696163cc757560d09cf22cc8fad1571b79e76df"
   integrity sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==
 
-"derivable-tools@git+ssh://git@github.com:derivable-labs/derivable-tools.git#52e03a8c9b945f25eb2e2b3971b924105e97f895":
+"derivable-tools@git+ssh://git@github.com:derivable-labs/derivable-tools.git#dev-build":
   version "1.0.0"
-  resolved "git+ssh://git@github.com:derivable-labs/derivable-tools.git#76f57772d96e3892c467ab42236130ef7543ba15"
+  resolved "git+ssh://git@github.com:derivable-labs/derivable-tools.git#ee61e3c34cb6d67c46f00147a754ee6f154b66ce"
   dependencies:
     "@ethersproject/providers" "https://gitpkg.now.sh/derivable-labs/ethers.js/packages/providers?master"
     "@zoltu/ethereum-crypto" "^2.3.0"
